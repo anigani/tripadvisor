@@ -1,7 +1,7 @@
 <suite name="Suite" verbose="1" >
   <test name="tripadvisor" >
     <classes>
-       <class name="com.tripadvisor.pages.TripadvisorHomePageTest" />
+       <class name="com.tripadvisor.pages.HomePageTest" />
     </classes>
   </test>
 </suite>
